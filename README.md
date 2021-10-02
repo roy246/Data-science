@@ -1,3 +1,2 @@
 # Data-science
-# This is the code regarding to KNN algorithm
-# A small assignment example
+# These are some assignemnets regarding several types of model building tehniques
