@@ -1,2 +1,2 @@
 # Data-science
-# These are some assignemnets regarding several types of model building tehniques
+# These are some assingments regarding several types of model building tehniques
